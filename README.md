@@ -17,6 +17,6 @@ Landing page pessoal responsiva construída com HTML e CSS puro. Este é meu pri
 ![Screenshot da Landing Page](Screenshot.png) 
 
 ## Sobre Mim
-Sou Kalebe Betcel, com background em análise de dados e agora mergulhando no front-end (HTML, CSS, JS, React). Conecte-se no [LinkedIn](https://linkedin.com/in/kalebebetcel).
+Sou Kalebe Betcel, com background em análise de dados e agora mergulhando no front-end (HTML, CSS, JS, React). Conecte-se no [LinkedIn](https://www.linkedin.com/in/kalebe-betcel-5a8b4519b).
 
 Feito em 2024.
