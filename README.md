@@ -14,7 +14,7 @@ Landing page pessoal responsiva construída com HTML e CSS puro. Este é meu pri
 3. Para hospedar: Ative GitHub Pages em Settings > Pages.
 
 ## Prints ou Demo
-![Screenshot da Landing Page](screenshot.png) <!-- Adicione uma imagem aqui -->
+![Screenshot da Landing Page](Screenshot.png) 
 
 ## Sobre Mim
 Sou Kalebe Betcel, com background em análise de dados e agora mergulhando no front-end (HTML, CSS, JS, React). Conecte-se no [LinkedIn](https://linkedin.com/in/kalebebetcel).
