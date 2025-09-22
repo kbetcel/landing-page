@@ -9,7 +9,7 @@ Landing page pessoal responsiva construída com HTML e CSS puro. Este é meu pri
 - **Outros**: Design mobile-first, sem JavaScript (para manter simples).
 
 ## Como Executar
-1. Clone o repositório: `git clone https://github.com/seuusuario/portfolio-landing-page.git`
+1. Clone o repositório: `git clone https://github.com/kbetcel/landing-page.git`
 2. Abra o arquivo `index.html` no seu navegador.
 3. Para hospedar: Ative GitHub Pages em Settings > Pages.
 
